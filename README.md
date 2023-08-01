@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @devgyuwan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome To My GitHub!
 
-<!---
-devgyuwan/devgyuwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙋‍♂️ Personal Info
+- Kim Gyu-Wan
+- Tech University of Korea
+- Computer Engineering (CSE)
+- devlynn@naver.com
